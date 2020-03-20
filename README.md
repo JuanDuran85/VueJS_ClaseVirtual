@@ -26,7 +26,7 @@
 <script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
 ```
 
-7. Al finalizar de configurar y preparar el documento HTML, debemos crear en el `<body>` una estructura con el id que sera el elemento principal de VueJS. Ejemplo:
+7. Al finalizar de configurar y preparar el documento HTML, debemos crear en el `<body>` una estructura con el id que será el elemento principal de VueJS. Ejemplo:
 
 ```HTML
 <body>
