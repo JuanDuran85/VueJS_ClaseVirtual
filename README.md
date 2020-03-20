@@ -46,3 +46,23 @@ const vm = new Vue({
     }
 });
 ```
+
+## Direcciones web de APIs
+* [GitHub API](https://api.github.com/)
+* [API Tester](https://apitester.com/)
+* [JSONPlaceholder](http://jsonplaceholder.typicode.com/)
+* [RandomAPI](https://randomuser.me/)
+* [Lorem Picsum](https://picsum.photos/)
+* [ipify API](https://www.ipify.org/)
+* [CoinDesk API](https://www.coindesk.com/coindesk-api)
+* [REST Countries](https://restcountries.eu/)
+* [country IO](http://country.io/data/)
+* [Req | Res](https://reqres.in/)
+* [The Movie DB](https://www.themoviedb.org/)
+* [The Rick and Morty API](https://rickandmortyapi.com/)
+* [PokéAPI](https://pokeapi.co/)
+* [Listado de API's Públicas en Chile](https://github.com/juanbrujo/listado-apis-publicas-en-chile)
+* [OpenLibra ](https://openlibra.com/es/page/public-api)
+* [Yahoo Weather API](https://developer.yahoo.com/weather/documentation.html)
+
+
