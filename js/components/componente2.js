@@ -1,7 +1,7 @@
-Vue.component('componente-uno', {
+Vue.component('componente-dos', {
     template: `
         <div>
-            <h1>Mensaje desde el componente1.js</h1>
+            <h1>Mensaje desde el componente2.js</h1>
             <p v-text="titulo"></p>
             <div v-show="validar">
                 <p>La información enviada fue:</p>
